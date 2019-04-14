@@ -1,0 +1,9 @@
+name: ServerRanks
+author: Finitek
+version: 1.1222222222222222222222222222222222222
+descritption: 8bits' ranks. Ranks like BIT, IMAGE, OS and more.
+main: space.eightbits.ranks.Ranks
+commands:
+  setrank:
+    description: Nothing to say!
+    usage: No actual usage for players!

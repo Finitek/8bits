@@ -1,0 +1,32 @@
+name: 8bitsServer
+author: Finitek
+version: 1.1222222222222222222222222222222222222
+descritption:  Copyright Monsoon Sp. z.o.o. 
+main: space.eightbits.ranks.Ranks
+commands:
+  setrank:
+    description: "Test that out!"
+    usage: "No actual usage!"
+  ban:
+    description: "Wanna be experimental rabbit?"
+    usage: "/ban <player> <period> <reason> <fake>"
+    aliases: ["fuckaway"]
+  kick:
+    description: "Price for naughty girls and boys."
+    usage: "/kick <player>" 
+  op:
+    description: "You can dream about it!"
+    usage: "/op <player> <type>"
+  deop:
+    description: "One of the coolest commands."
+    usage: "Yeah, just /deop <player>"
+  lobby:
+    description: "Go to lobby. Not on foot."
+    usage: "Just type this command. Is that hard?"
+    aliases: [loby,hub,letscheckifyouwillfindthislongcommand]
+  unban:
+    description: "Sorry for that now you are free."
+    usage: "/unban <player>"
+  unkick:
+    description: "Oops that's impossible."
+    usage: "Error! Evacuating server!"
